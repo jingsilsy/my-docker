@@ -1,0 +1,355 @@
+
+活动连接
+
+  协议  本地地址          外部地址        状态
+  TCP    0.0.0.0:80             0.0.0.0:0              LISTENING
+ 无法获取所有权信息
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    0.0.0.0:443            0.0.0.0:0              LISTENING
+ [VisualSVNServer.exe]
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING
+ 无法获取所有权信息
+  TCP    0.0.0.0:902            0.0.0.0:0              LISTENING
+ [vmware-authd.exe]
+  TCP    0.0.0.0:912            0.0.0.0:0              LISTENING
+ [vmware-authd.exe]
+  TCP    0.0.0.0:1801           0.0.0.0:0              LISTENING
+ [mqsvc.exe]
+  TCP    0.0.0.0:2103           0.0.0.0:0              LISTENING
+ [mqsvc.exe]
+  TCP    0.0.0.0:2105           0.0.0.0:0              LISTENING
+ [mqsvc.exe]
+  TCP    0.0.0.0:2107           0.0.0.0:0              LISTENING
+ [mqsvc.exe]
+  TCP    0.0.0.0:2179           0.0.0.0:0              LISTENING
+ [vmms.exe]
+  TCP    0.0.0.0:3306           0.0.0.0:0              LISTENING
+ [com.docker.slirp.exe]
+  TCP    0.0.0.0:3306           0.0.0.0:0              LISTENING
+ [mysqld.exe]
+  TCP    0.0.0.0:5357           0.0.0.0:0              LISTENING
+ 无法获取所有权信息
+  TCP    0.0.0.0:6379           0.0.0.0:0              LISTENING
+ [com.docker.slirp.exe]
+  TCP    0.0.0.0:7680           0.0.0.0:0              LISTENING
+  DoSvc
+ [svchost.exe]
+  TCP    0.0.0.0:8000           0.0.0.0:0              LISTENING
+ [com.docker.slirp.exe]
+  TCP    0.0.0.0:9000           0.0.0.0:0              LISTENING
+ [com.docker.slirp.exe]
+  TCP    0.0.0.0:11211          0.0.0.0:0              LISTENING
+ [com.docker.slirp.exe]
+  TCP    0.0.0.0:33060          0.0.0.0:0              LISTENING
+ [mysqld.exe]
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING
+ 无法获取所有权信息
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING
+  EventLog
+ [svchost.exe]
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING
+ [spoolsv.exe]
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING
+ [lsass.exe]
+  TCP    0.0.0.0:49669          0.0.0.0:0              LISTENING
+ [mqsvc.exe]
+  TCP    0.0.0.0:49713          0.0.0.0:0              LISTENING
+ 无法获取所有权信息
+  TCP    10.0.75.1:53           0.0.0.0:0              LISTENING
+ [com.docker.proxy.exe]
+  TCP    10.0.75.1:139          0.0.0.0:0              LISTENING
+ 无法获取所有权信息
+  TCP    10.0.75.1:445          10.0.75.2:45422        ESTABLISHED
+ 无法获取所有权信息
+  TCP    127.0.0.1:2375         0.0.0.0:0              LISTENING
+ [com.docker.proxy.exe]
+  TCP    127.0.0.1:44215        0.0.0.0:0              LISTENING
+ [Explorer.EXE]
+  TCP    127.0.0.1:44216        0.0.0.0:0              LISTENING
+ [Explorer.EXE]
+  TCP    127.0.0.1:44217        0.0.0.0:0              LISTENING
+ [Explorer.EXE]
+  TCP    127.0.0.1:44218        0.0.0.0:0              LISTENING
+ [Explorer.EXE]
+  TCP    127.0.0.1:44219        0.0.0.0:0              LISTENING
+ [Explorer.EXE]
+  TCP    127.0.0.1:49710        127.0.0.1:49711        ESTABLISHED
+ [mysqld.exe]
+  TCP    127.0.0.1:49711        127.0.0.1:49710        ESTABLISHED
+ [mysqld.exe]
+  TCP    127.0.0.1:49808        127.0.0.1:49809        ESTABLISHED
+ [com.docker.slirp.exe]
+  TCP    127.0.0.1:49809        127.0.0.1:49808        ESTABLISHED
+ [com.docker.slirp.exe]
+  TCP    127.0.0.1:49810        127.0.0.1:49811        ESTABLISHED
+ [com.docker.db.exe]
+  TCP    127.0.0.1:49811        127.0.0.1:49810        ESTABLISHED
+ [com.docker.db.exe]
+  TCP    192.168.1.142:139      0.0.0.0:0              LISTENING
+ 无法获取所有权信息
+  TCP    192.168.1.142:5357     192.168.1.165:64790    TIME_WAIT
+  TCP    192.168.1.142:22727    0.0.0.0:0              LISTENING
+ [SkypeHost.exe]
+  TCP    192.168.1.142:49725    111.221.29.120:443     ESTABLISHED
+ [Explorer.EXE]
+  TCP    192.168.1.142:49742    101.199.97.154:80      ESTABLISHED
+ [360Tray.exe]
+  TCP    192.168.1.142:49772    134.170.110.96:443     ESTABLISHED
+ [OneDrive.exe]
+  TCP    192.168.1.142:49791    111.221.29.67:443      ESTABLISHED
+ [Explorer.EXE]
+  TCP    192.168.1.142:49794    111.221.29.124:443     ESTABLISHED
+ [OneDrive.exe]
+  TCP    192.168.1.142:50026    111.221.29.253:443     TIME_WAIT
+  TCP    192.168.1.142:50042    101.199.97.110:80      ESTABLISHED
+ [360Tray.exe]
+  TCP    192.168.1.142:50096    192.168.1.29:1179      TIME_WAIT
+  TCP    192.168.1.142:50098    192.168.1.29:1179      TIME_WAIT
+  TCP    192.168.1.142:50102    66.119.144.158:443     TIME_WAIT
+  TCP    192.168.1.142:50110    111.221.29.254:443     TIME_WAIT
+  TCP    192.168.1.142:50120    220.181.124.50:80      TIME_WAIT
+  TCP    192.168.56.1:139       0.0.0.0:0              LISTENING
+ 无法获取所有权信息
+  TCP    192.168.99.1:139       0.0.0.0:0              LISTENING
+ 无法获取所有权信息
+  TCP    [::]:80                [::]:0                 LISTENING
+ 无法获取所有权信息
+  TCP    [::]:135               [::]:0                 LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    [::]:443               [::]:0                 LISTENING
+ [VisualSVNServer.exe]
+  TCP    [::]:445               [::]:0                 LISTENING
+ 无法获取所有权信息
+  TCP    [::]:1801              [::]:0                 LISTENING
+ [mqsvc.exe]
+  TCP    [::]:2103              [::]:0                 LISTENING
+ [mqsvc.exe]
+  TCP    [::]:2105              [::]:0                 LISTENING
+ [mqsvc.exe]
+  TCP    [::]:2107              [::]:0                 LISTENING
+ [mqsvc.exe]
+  TCP    [::]:2179              [::]:0                 LISTENING
+ [vmms.exe]
+  TCP    [::]:3306              [::]:0                 LISTENING
+ [mysqld.exe]
+  TCP    [::]:5357              [::]:0                 LISTENING
+ 无法获取所有权信息
+  TCP    [::]:7680              [::]:0                 LISTENING
+  DoSvc
+ [svchost.exe]
+  TCP    [::]:49664             [::]:0                 LISTENING
+ 无法获取所有权信息
+  TCP    [::]:49665             [::]:0                 LISTENING
+  EventLog
+ [svchost.exe]
+  TCP    [::]:49666             [::]:0                 LISTENING
+ [spoolsv.exe]
+  TCP    [::]:49667             [::]:0                 LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    [::]:49668             [::]:0                 LISTENING
+ [lsass.exe]
+  TCP    [::]:49669             [::]:0                 LISTENING
+ [mqsvc.exe]
+  TCP    [::]:49713             [::]:0                 LISTENING
+ 无法获取所有权信息
+  TCP    [::1]:3306             [::]:0                 LISTENING
+ [com.docker.slirp.exe]
+  TCP    [::1]:6379             [::]:0                 LISTENING
+ [com.docker.slirp.exe]
+  TCP    [::1]:8000             [::]:0                 LISTENING
+ [com.docker.slirp.exe]
+  TCP    [::1]:9000             [::]:0                 LISTENING
+ [com.docker.slirp.exe]
+  TCP    [::1]:11211            [::]:0                 LISTENING
+ [com.docker.slirp.exe]
+  TCP    [::1]:49770            [::]:0                 LISTENING
+ [SearchUI.exe]
+  TCP    [fe80::89b7:38a1:df04:655f%9]:50107  [fe80::d984:db38:41a9:afe1%9]:5357  TIME_WAIT
+  TCP    [fe80::89b7:38a1:df04:655f%9]:50108  [fe80::d984:db38:41a9:afe1%9]:5357  TIME_WAIT
+  UDP    0.0.0.0:500            *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:3600           *:*                    
+ [360Tray.exe]
+  UDP    0.0.0.0:3702           *:*                    
+ [dashost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+ [dashost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  EventSystem
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  EventSystem
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:4500           *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:5353           *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:5355           *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:51768          *:*                    
+ [360Tray.exe]
+  UDP    0.0.0.0:61987          *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:61989          *:*                    
+ [dashost.exe]
+  UDP    0.0.0.0:61991          *:*                    
+  EventSystem
+ [svchost.exe]
+  UDP    0.0.0.0:61993          *:*                    
+ [QQProtect.exe]
+  UDP    0.0.0.0:64862          *:*                    
+ [dashost.exe]
+  UDP    0.0.0.0:64864          *:*                    
+  EventSystem
+ [svchost.exe]
+  UDP    10.0.75.1:53           *:*                    
+ [com.docker.proxy.exe]
+  UDP    10.0.75.1:137          *:*                    
+ 无法获取所有权信息
+  UDP    10.0.75.1:138          *:*                    
+ 无法获取所有权信息
+  UDP    10.0.75.1:1900         *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    10.0.75.1:50440        *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:1900         *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:50444        *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.1.142:137      *:*                    
+ 无法获取所有权信息
+  UDP    192.168.1.142:138      *:*                    
+ 无法获取所有权信息
+  UDP    192.168.1.142:1900     *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.1.142:22727    *:*                    
+ [SkypeHost.exe]
+  UDP    192.168.1.142:50443    *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.56.1:137       *:*                    
+ 无法获取所有权信息
+  UDP    192.168.56.1:138       *:*                    
+ 无法获取所有权信息
+  UDP    192.168.56.1:1900      *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.56.1:50441     *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.99.1:137       *:*                    
+ 无法获取所有权信息
+  UDP    192.168.99.1:138       *:*                    
+ 无法获取所有权信息
+  UDP    192.168.99.1:1900      *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.99.1:50442     *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::]:500               *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+ [dashost.exe]
+  UDP    [::]:3702              *:*                    
+  EventSystem
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+  EventSystem
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+ [dashost.exe]
+  UDP    [::]:4500              *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:5353              *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:5355              *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:61988             *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:61990             *:*                    
+ [dashost.exe]
+  UDP    [::]:61992             *:*                    
+  EventSystem
+ [svchost.exe]
+  UDP    [::]:64863             *:*                    
+ [dashost.exe]
+  UDP    [::]:64865             *:*                    
+  EventSystem
+ [svchost.exe]
+  UDP    [::1]:1900             *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::1]:50439            *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::88ce:1e37:c45f:e24b%14]:546  *:*                    
+  Dhcp
+ [svchost.exe]
+  UDP    [fe80::88ce:1e37:c45f:e24b%14]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::88ce:1e37:c45f:e24b%14]:50435  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::89b7:38a1:df04:655f%9]:546  *:*                    
+  Dhcp
+ [svchost.exe]
+  UDP    [fe80::89b7:38a1:df04:655f%9]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::89b7:38a1:df04:655f%9]:50438  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::8db4:6fcc:b0f4:8cc8%20]:546  *:*                    
+  Dhcp
+ [svchost.exe]
+  UDP    [fe80::8db4:6fcc:b0f4:8cc8%20]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::8db4:6fcc:b0f4:8cc8%20]:50437  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::b8bd:d976:fbbb:8920%5]:546  *:*                    
+  Dhcp
+ [svchost.exe]
+  UDP    [fe80::b8bd:d976:fbbb:8920%5]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::b8bd:d976:fbbb:8920%5]:50436  *:*                    
+  SSDPSRV
+ [svchost.exe]

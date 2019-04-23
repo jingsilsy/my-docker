@@ -1,0 +1,23 @@
+nginx:
+  build: ./nginx
+  ports:
+    - "80:80"
+  links:
+    - "php"
+  volumes:
+    - /web:/web
+
+php:
+  build: ./php
+  ports:
+    - "6999:6999"
+    - "9000:9000"
+  links:
+    - "redis"
+  volumes:
+    - /web:/web
+
+redis:
+  build: ./redis
+  ports:
+    - "6379:6379"
